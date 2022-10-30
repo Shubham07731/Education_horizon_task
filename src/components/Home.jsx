@@ -1,4 +1,4 @@
-/* eslint-disable prefer-destructuring */
+
 import React from "react";
 import "../components/Home.css";
 import { useEffect, useState } from "react";
